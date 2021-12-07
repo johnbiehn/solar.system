@@ -26,9 +26,11 @@
     text-align: center;
     }
     #temperature{
-    font: 	    
+    width: 800px;
+    height: 500px;	    
 	}
 	.footer{
     width: 200px;
     height: 150px;
 	}
+
