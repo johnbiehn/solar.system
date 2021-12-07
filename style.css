@@ -18,11 +18,12 @@
     height: 500px;
     }
     #welcome{
-    font: Copperplate;
+    font: PragmataPro;
     color: MediumTurquoise;	
     font-size: 65px;
     font-family: cursive;
     font-style: italic;
+    text-align: center;
     }
     #temperature{
     font: 	    
