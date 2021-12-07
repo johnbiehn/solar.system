@@ -35,7 +35,8 @@
     font-family: Monospace; 
         }
    .home{
-    font-family: Century Gothic, sans-serif;
+    font: impact;
+    font-family: fantasy;
     font-size: 24px;
     font-weight: bold;
         }
