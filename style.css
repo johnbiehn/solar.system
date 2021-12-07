@@ -18,7 +18,9 @@
     height: 500px;
     }
     #welcome{
-    font-family: URW Chancery L;
+    font: URW Chancery L;
     color: MediumTurquoise;	
     font-size: 65px;
+    font-family: cursive;
+    font-style: italic;
     }
