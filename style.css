@@ -18,9 +18,12 @@
     height: 500px;
     }
     #welcome{
-    font: URW Chancery L;
+    font: Copperplate;
     color: MediumTurquoise;	
     font-size: 65px;
     font-family: cursive;
     font-style: italic;
     }
+    #temperature{
+    font: 	    
+}
