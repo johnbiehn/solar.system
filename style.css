@@ -38,4 +38,8 @@
     font-size: 20px;
     font-family: Monospace; 
         }
-
+   .home{
+    font-family: Century Gothic, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+        }
