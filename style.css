@@ -1,1 +1,24 @@
-
+    body{
+    background-color: lightcyan;
+    }
+	    
+    img{
+    width: 100px;
+    height: 100px;
+    }
+    .links{
+    border-color: grey;
+    border-width: 2px;
+    border-style: solid;
+    width: 200px;
+    height: 150px;
+    }
+    #main{
+    width: 800px;
+    height: 500px;
+    }
+    #welcome{
+    font-family: URW Chancery L;
+    color: MediumTurquoise;	
+    font-size: 65px;
+    }
