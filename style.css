@@ -14,12 +14,10 @@
     height: 150px;
     }
     .main{
-    width: 700px;
+    width: 800px;
     height: 500px;
-    top: 50%;
-    left: 50%;
-    margin-top: -100px;
-    margin-left: -100px;  
+    margin-left: auto;
+    margin-right: auto;
     }
     .welcome{
     font: PragmataPro;
