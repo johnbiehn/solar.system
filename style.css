@@ -57,3 +57,8 @@
     font: Arial;
     font-size: 20px;
     }
+  #surprised{
+    width: 150px;
+    height: 150px;
+    float: right;
+}
