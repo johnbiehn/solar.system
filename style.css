@@ -19,7 +19,7 @@
     text-align: center;
     }
     .welcome{
-    font: PragmataPro;
+    font-family: PragmataPro;
     color: MediumTurquoise;	
     font-size: 65px;
     font-family: cursive;
@@ -37,7 +37,7 @@
         }
    .home{
     
-    font: Verdana;
+    font-family: Monospace;
     font-size: 24px;
     font-weight: bold;
     color: darkgreen;
